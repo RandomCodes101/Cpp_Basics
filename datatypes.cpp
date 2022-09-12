@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+
+int main(){
+    // int number;
+    // cin>>number;
+    // cout<<number;
+    float number;
+    cin>>number;
+    cout<<number;
+    return 0;
+}

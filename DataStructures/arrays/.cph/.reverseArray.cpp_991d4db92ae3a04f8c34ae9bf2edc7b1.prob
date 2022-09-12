@@ -1,0 +1,1 @@
+{"name":"Local: reverseArray","url":"/mnt/d/ACADS/git/C++ ba=ics/DataStructures/arrays/reverseArray.cpp","tests":[{"id":1662983758015,"input":"5\n1\n2\n3\n4\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/ACADS/git/C++ ba=ics/DataStructures/arrays/reverseArray.cpp","group":"local","local":true}

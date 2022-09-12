@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"/mnt/d/ACADS/git/C++ ba=ics/DataStructures/arrays/palindrome.cpp","tests":[{"id":1662985306943,"input":"sabin","output":""},{"id":1662985326501,"input":"malayalam","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/d/ACADS/git/C++ ba=ics/DataStructures/arrays/palindrome.cpp","group":"local","local":true}
